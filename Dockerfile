@@ -17,9 +17,9 @@ EXPOSE 7000/udp
 EXPOSE 7001/udp
 
 # satisfactory
-EXPOSE 15000/udp
-EXPOSE 15777/udp
-EXPOSE 7777/udp
+EXPOSE 14397/udp
+EXPOSE 16569/udp
+EXPOSE 15471/udp
 
 # vrising
 EXPOSE 27015/udp
